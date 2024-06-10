@@ -1,0 +1,27 @@
+.Box3 {
+    display:flex;
+    flex-direction: column;
+    width:80%;
+    align-self: center;
+    margin: 0 auto;
+padding:1rem;
+    font-size:12px;
+    background-color: black;
+}
+.headline {
+    font-size:large ;
+}
+.line-1 {
+    font-size: smaller;
+    display: flex;
+    justify-content: space-between;
+}
+.line-2 {
+    font-size: smaller;
+    display: flex;
+    justify-content: space-between;
+}
+.line-3 {
+    font-size: smaller;
+    justify-content: flex-start;
+}
